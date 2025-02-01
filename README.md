@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple AI for [Coding Games Tron Battle](https://www.codingame.com/multiplayer/bot-programming/tron-battle). It uses the Minimax algorithm (depth 4) with a flood fill heuristic to make smart moves and avoid getting trapped.
+This is a program for [Coding Games Tron Battle](https://www.codingame.com/multiplayer/bot-programming/tron-battle). It uses the Minimax algorithm (depth 4) with a flood fill heuristic to make smart moves and avoid getting trapped.
 
 ## How It Works
 
